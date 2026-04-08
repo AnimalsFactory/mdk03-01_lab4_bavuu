@@ -3,5 +3,5 @@ def greet(name):
 
 greet("World")
  
-def SUMMA(a,b): # имя заглавными, нет пробелов после запятой 
-    return a+b 
+def calculate_sum(a, b):
+    return a + b
